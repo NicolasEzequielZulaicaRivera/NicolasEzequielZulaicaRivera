@@ -23,6 +23,8 @@
 - [GRAPHQL-APOLLO](https://github.com/NicolasEzequielZulaicaRivera/WebDevTech/tree/graphql)
 - [TYPESCRIPT](https://github.com/NicolasEzequielZulaicaRivera/WebDevTech/tree/typescript)
 - [JEST]()
+- WEBPACK
+- NEXT
 
 ## RESOURCES
 
@@ -45,11 +47,11 @@
 ### GITHUB
 
 - [First time w/ git and github](https://kbroman.org/github_tutorial/pages/first_time.html)
+- Actions
 
 ### DOCKER
 
 ### AWS
-
 
 ## OTHER
 
