@@ -16,7 +16,13 @@
 - [js intro (`codecademy`)](https://www.codecademy.com/learn/introduction-to-javascript)
 - [js async (`codecademy`)](https://www.codecademy.com/learn/asynchronous-javascript)
 
-### REACT
+### WEBDEV
+
+- [REACT](https://github.com/NicolasEzequielZulaicaRivera/WebDevTech/tree/react)
+- [REDUX](https://github.com/NicolasEzequielZulaicaRivera/WebDevTech/tree/redux)
+- [GRAPHQL-APOLLO](https://github.com/NicolasEzequielZulaicaRivera/WebDevTech/tree/graphql)
+- [TYPESCRIPT](https://github.com/NicolasEzequielZulaicaRivera/WebDevTech/tree/typescript)
+- [JEST]()
 
 ## RESOURCES
 
@@ -39,6 +45,10 @@
 ### GITHUB
 
 - [First time w/ git and github](https://kbroman.org/github_tutorial/pages/first_time.html)
+
+### DOCKER
+
+### AWS
 
 
 ## OTHER
