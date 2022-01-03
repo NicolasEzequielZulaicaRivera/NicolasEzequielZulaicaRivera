@@ -18,12 +18,13 @@
 
 ### WEBDEV
 
+- [ES6](http://es6-features.org/)
 - [REACT](https://github.com/NicolasEzequielZulaicaRivera/WebDevTech/tree/react)
 - [REDUX](https://github.com/NicolasEzequielZulaicaRivera/WebDevTech/tree/redux)
 - [GRAPHQL-APOLLO](https://github.com/NicolasEzequielZulaicaRivera/WebDevTech/tree/graphql)
 - [TYPESCRIPT](https://github.com/NicolasEzequielZulaicaRivera/WebDevTech/tree/typescript)
 - [JEST]()
-- WEBPACK
+- [WEBPACK](https://www.youtube.com/watch?v=lziuNMk_8eQ)
 - NEXT
 
 ## RESOURCES
