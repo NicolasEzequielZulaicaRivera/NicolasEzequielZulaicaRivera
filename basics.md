@@ -26,6 +26,7 @@
 - [JEST]()
 - [WEBPACK](https://www.youtube.com/watch?v=lziuNMk_8eQ)
 - NEXT
+- [TURBOREPO](https://turborepo.org/)
 
 ## RESOURCES
 
