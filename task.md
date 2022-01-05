@@ -3,7 +3,7 @@
 ## Navegacion
 
 - **Navbar:** La pagina debe tener una [barra de navegacion](https://www.w3schools.com/css/css_navbar.asp) por la cual se pueda acceder a cualquiera de las 4 secciones.
-- **Footer:** La pagina debe tener un [pie de pagina](https://www.w3schools.com/tags/tag_footer.asp) con el nombre del autor y un hipervinculo a (esta pagina)[]
+- **Footer:** La pagina debe tener un [pie de pagina](https://www.w3schools.com/tags/tag_footer.asp) con el nombre del autor y un hipervinculo a [esta misma pagina](https://github.com/NicolasEzequielZulaicaRivera/NicolasEzequielZulaicaRivera/blob/main/task.md)
 
 ## Secciones
 
@@ -36,7 +36,7 @@
 
 ### Contacto
 
-- [Formulario](https://www.w3schools.com/html/html_forms.asp)
+- [Formulario](https://www.w3schools.com/html/html_forms.asp) ( [ejemplo](https://serviciotecnico.com/contacto/) )
   - Inputs de por lo menos 3 tipos diferentes
   - Por lo menos 2 botones (submit, reset, etc)
 
@@ -48,6 +48,16 @@
 - Fondo blanco, texto negro
 - Utilizar [`box-shadow`](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp) para demarcar las tarjetas
 - Utilizar otro color de fondo para header / footer
+
+### CSS
+
+- Utilizar , por lo menos, 3 [selectores](https://www.w3schools.com/css/css_selectors.asp) de css ( id (#), clase (.), nombre )
+- Utilizar los siguientes [estilos](https://www.w3schools.com/cssref/default.asp) al menos 1 vez
+  - [align-content](https://www.w3schools.com/cssref/css3_pr_align-content.asp)
+  - [font-weight](https://www.w3schools.com/cssref/pr_font_weight.asp)
+  - `display:flex` y [gap](https://www.w3schools.com/cssref/css3_pr_gap.asp)
+  - [margin](https://www.w3schools.com/css/css_margin.asp)  -  [padding](https://www.w3schools.com/cssref/pr_padding.asp)  -  [border](https://www.w3schools.com/cssref/pr_border.asp)
+- Utilizar [`:hover`](https://www.w3schools.com/csSref/sel_hover.asp) al menos 1 vez
 
 ## Estructura del proyecto
 
@@ -61,9 +71,12 @@
  ┃ ┗━📄 contacto.html   \
  ┗━📄 index.html
  
- ## Otros
+## Otros
  
- - Todas la imagenes deben tener texto alternativo (alt)
+- Todas la imagenes deben tener texto alternativo (alt)
 
- 
- 
+- Utilizar los siguientes [atributos](https://www.w3schools.com/html/html_attributes.asp) en etiquetas de html al menos 1 vez:
+  - [title](https://www.w3schools.com/tags/att_title.asp)
+  - [style](https://www.w3schools.com/tags/att_style.asp)
+
+- Copiar y pegar lo que se pueda, eg. el Header y Footer va a ser igual (excepto links) en todas las paginas, idem tarjetas, idem <html> (usar `!` o `html:5`)
