@@ -17,8 +17,8 @@
 
 ### Catalogo y Noticias
 
-- Ambas pantallas tendran [tarjetas](https://www.w3schools.com/w3css/w3css_cards.asp) ( [ejemplo](https://nicolasezequielzulaicarivera.github.io/projects.html), [otro](https://material.io/components/cards#behavior) )
-- Las tarjetas estaran dentro de un contenedor con `display:flex` de modo que se ajusten al tamaño de la pantalla ( ver achocando la pantalla del ejemplo )
+- Ambas pantallas tendran [tarjetas](https://www.w3schools.com/w3css/w3css_cards.asp) ( [EJEMPLO](https://www.carwale.com/images/), [otro](https://material.io/components/cards#behavior) )
+- Las tarjetas estaran dentro de un contenedor con `display:flex` de modo que se ajusten al tamaño de la pantalla ( ver achicando la pantalla del ejemplo )
 - Cada seccion requiere por lo menos 3 tarjetas diferentes ( diferentes contenidos ) y 9 tarjetas en total ( pueden ser copias )
 
 
