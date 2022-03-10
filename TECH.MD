@@ -67,3 +67,8 @@
 - [Regex (`codecademy`)](https://www.codecademy.com/learn/introduction-to-regular-expressions) `backlog`
 - [Make VS Code Extensions](https://code.visualstudio.com/api/get-started/your-first-extension) `backlog`
 - [Zebraki](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AHoracio+Marcelo+Zebracki&s=relevancerank&text=Horacio+Marcelo+Zebracki&ref=dp_byline_sr_book_1)
+
+
+- Smart Pointers
+- [Scale Up with Lock Free Algorithms](https://www.youtube.com/watch?v=7HBEXs48qmo)
+- [Software Delivery Guide - Martin Fowler](https://www.martinfowler.com/delivery.html)
