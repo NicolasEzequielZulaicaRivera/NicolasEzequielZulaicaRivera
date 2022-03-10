@@ -25,8 +25,13 @@
 - [TYPESCRIPT](https://github.com/NicolasEzequielZulaicaRivera/WebDevTech/tree/typescript)
 - [JEST]()
 - [WEBPACK](https://www.youtube.com/watch?v=lziuNMk_8eQ)
-- NEXT
+- [NEXT](https://nextjs.org/learn/basics/create-nextjs-app)
+- [WEB WORKERS](https://webpack.js.org/guides/web-workers/)
 - [TURBOREPO](https://turborepo.org/)
+
+#### Specific
+
+- [NextJS, WebAssembly, and Web Workers](https://medium.com/lagierandlagier/nextjs-webassembly-and-web-workers-a5f7c19d4fd0)
 
 ## RESOURCES
 
@@ -60,3 +65,5 @@
 - [ROADMAP](https://roadmap.sh/)
 - [Markdown](https://www.markdownguide.org/)
 - [Regex (`codecademy`)](https://www.codecademy.com/learn/introduction-to-regular-expressions) `backlog`
+- [Make VS Code Extensions](https://code.visualstudio.com/api/get-started/your-first-extension) `backlog`
+- [Zebraki](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AHoracio+Marcelo+Zebracki&s=relevancerank&text=Horacio+Marcelo+Zebracki&ref=dp_byline_sr_book_1)
