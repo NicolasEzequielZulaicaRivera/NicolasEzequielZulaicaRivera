@@ -1,4 +1,4 @@
-<h3 align="center"> 👋🏻 Hi I'm Nicolas Zulaica</h3>
+<h3 align="center"> 👋🏻 Hi, I'm Nicolas Zulaica</h3>
 <h4 align="center"> Software Engineering Student 👨🏻‍🎓 & Software Developer 👨🏻‍💻 </h4>
 
 <div valign="center" align="center">
