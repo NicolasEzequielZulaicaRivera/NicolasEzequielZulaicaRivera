@@ -20,17 +20,17 @@
 ---
 
 <div valign="center" align="center">
-  <img src="https://img.icons8.com/color/344/html-5--v1.png" height="30px" alt="html" title="html"/>
+  <img src="assets/html.svg" height="30px" alt="html" title="html"/>
   &nbsp;
-  <img src="https://img.icons8.com/color/344/css3.png" height="30px" alt="css" title="css"/>
+  <img src="assets/css.svg" height="30px" alt="css" title="css"/>
   &nbsp;
-  <img src="https://img.icons8.com/color/344/javascript--v1.png" height="30px" alt="javascript" title="javascript"/>
+  <img src="assets/javascript.svg" height="30px" alt="javascript" title="javascript"/>
   &nbsp;
-  <img src="https://img.icons8.com/color/344/typescript.png" height="30px" alt="typescript" title="typescript"/>
+  <img src="assets/typescript.svg" height="30px" alt="typescript" title="typescript"/>
   &nbsp;
-  <img src="https://www.logigroup.com/images/modules/react.gif" height="30px" alt="react" title="react"/>
+  <img src="assets/react.svg" height="30px" alt="react" title="react"/>
   &nbsp;
-  <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" height="28px" alt="nextjs" title="nextjs"/>
+  <img src="assets/nextj.svg" height="28px" alt="nextjs" title="nextjs"/>
   &nbsp;
   <!-- img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/2048px-WebAssembly_Logo.svg.png" height="28px" alt="wasm" title="web assembly"/-->
   
