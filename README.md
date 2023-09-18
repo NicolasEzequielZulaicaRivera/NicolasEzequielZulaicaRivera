@@ -18,6 +18,7 @@
 </div>
 
 ---
+  <!--
 
 <div valign="center" align="center">
   <img src="assets/html.svg" height="30px" alt="html" title="html"/>
@@ -32,6 +33,9 @@
   &nbsp;
   <img src="assets/nextj.svg" height="28px" alt="nextjs" title="nextjs"/>
   &nbsp;
+
+  -->
+  
   <!-- img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/2048px-WebAssembly_Logo.svg.png" height="28px" alt="wasm" title="web assembly"/-->
   
   
