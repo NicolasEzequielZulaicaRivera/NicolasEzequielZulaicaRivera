@@ -1,5 +1,5 @@
 <h3 align="center"> 👋🏻 Hi, I'm Nicolas Zulaica</h3>
-<h4 align="center"> Software Engineering Student 👨🏻‍🎓 & Software Developer 👨🏻‍💻 </h4>
+<h4 align="center"> Software Engineer (UBA) 👨🏻‍💻 </h4>
 
 <div valign="center" align="center">
   <a href="https://www.linkedin.com/in/nicolas-zulaica/" target="blank">
